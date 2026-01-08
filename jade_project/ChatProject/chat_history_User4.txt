@@ -1,0 +1,3 @@
+ME -> User3@192.168.1.132:1099/JADE: Salut! Ai terminat proiectul?
+User3@192.168.1.132:1099/JADE: Da, am terminat.
+ME -> User3@192.168.1.132:1099/JADE: Cat de greu ti s-a parut?

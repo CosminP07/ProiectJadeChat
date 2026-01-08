@@ -1,0 +1,5 @@
+User1@192.168.1.132:1099/JADE: Salut! Ce faci!?
+User1@192.168.1.132:1099/JADE: Salut! Ce faci?
+ME -> User1@192.168.1.132:1099/JADE: Bine! Tu?
+User1@192.168.1.132:1099/JADE: Salut! Ce faci?
+ME -> User1@192.168.1.132:1099/JADE: Bine! Tu?
